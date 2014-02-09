@@ -1,0 +1,7 @@
+door_SW.png
+3d
+rotate
+	door_SW.png
+	door_SE.png
+onlyAllowedNextTo
+	wall
